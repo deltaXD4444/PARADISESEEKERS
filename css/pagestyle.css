@@ -1,0 +1,54 @@
+
+body{
+  background:lightyellow;
+  font-size: 16px;
+  margin: 0;
+
+}
+
+.container{
+  text-align:center;
+  background-color:mediumpurple;
+  font-weight:900;
+  overflow: hidden;
+  line-height: 1.6mm;
+
+
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+
+  display: block;
+  margin: auto;
+  width: 65%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+
+.text h3{
+  line-height: 10mm;
+  text-align: center;
+  background-color: white;
+  padding: 5px;
+
+}
+
+.text img{
+  float: right;
+  margin: auto;
+  width: 50%;
+  background-color: white;
+  padding-right: 25px;
+
+}
+
+.text{
+  text-align: left;
+  background-color: white;
+
+}
